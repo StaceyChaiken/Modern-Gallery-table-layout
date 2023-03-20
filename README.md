@@ -1,2 +1,2 @@
-# Modern-Gallery-table-layout
-Website using the modern table layout for images
+Masonry-layout- Gallery
+Website using the Masonrylayout for images
